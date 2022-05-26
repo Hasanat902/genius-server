@@ -1,3 +1,1 @@
 # genius-server
-
-* Hasanat
